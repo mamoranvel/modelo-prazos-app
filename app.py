@@ -7,7 +7,7 @@ modelo = CatBoostRegressor()
 modelo.load_model("modelo_final.cbm")
 
 # --- 2. Cargar archivo de categorias ---
-df_cat = pd.read_csv(path + 'CSV categorical.csv', delimiter=';')
+df_cat = pd.read_csv('CSV categorical.csv', delimiter=';')
 
 # --- 3. Definir variables que el usuario debe seleccionar ---
 variables_usuario = [
