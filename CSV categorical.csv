@@ -1,0 +1,89 @@
+﻿det_tipo_proj;det_tipo_inv;det_gp;det_gi;det_area;det_perf_inv;ai_nivel3;clase_proj;fas_fase;fas_subfase
+Capacidade;Design & Build;DCONST;DABJ;AIRPACT;CAPEX IFRIC;International Terminal Building;PJANA;Ideia;Ideia
+Manutenção/Beneficiação;Simples;DEGA;DAFL;ArqConcept;CAPEX NIFRIC;Domestic Terminal Building;PGANA;Programa Base;Requisitos funcionais
+Não Aviação;;;DAFR;DConst;REPEX;VIP Terminal Building;;Programa Base;Programa Base
+Otimização;;;DAFU;GPES;;Administrative buildings;;Caracterização;Prep Consulta Caracterização
+Qualidade Serviço;;;DAHD;IE;;Cargo Building;;Caracterização;Consulta Caracterização
+Regulamentar;;;DAHR;INST;;ARFF Building;;Caracterização;Caracterização
+;;;DAJP;;;Ground Handling Storage Building;;Consulta EP;Prep Consulta EP
+;;;DAPS;;;Airport Maintenance Complex;;Consulta EP;Consulta EP
+;;;DASC;;;Power Station;;Consulta EP;Contrato EP
+;;;DASM;;;Heating and Cooling Plant;;Estudo Prévio;EstPrévio
+;;;DEGA;;;Fuel Station;;Consulta EP + PE + RevProj;Prep consulta EP + PE + RevProj
+;;;;;;Air Traffic Control Tower;;Consulta EP + PE + RevProj;Consulta  EP + PE + RevProj
+;;;;;;Others;;Consulta EP + PE + RevProj;Contrato EP + PE
+;;;;;;Runway;;Consulta EP + PE + RevProj;Prep consulta RevProj
+;;;;;;Taxiway;;Consulta EP + PE + RevProj;Consulta  RevProj
+;;;;;;Apron (Aircraft Parking);;Consulta EP + PE + RevProj;Contrato RevProj
+;;;;;;Airside Service Road;;ProjExec;EstPrévio
+;;;;;;Airfield Perimeter Fence;;ProjExec;ProjExec
+;;;;;;Drainage System;;ProjExec;RevProj
+;;;;;;Landside access roads;;Prep Consultas;Prep Consulta Obra
+;;;;;;Passenger Car Parks;;Prep Consultas;Prep Consulta Fisc
+;;;;;;Main Low Voltage Panel;;Prep Consultas;Prep Consulta Rev+Fisc
+;;;;;;Power generators;;Consultas/Contratação;Consulta Fisc
+;;;;;;Other facilities;;Consultas/Contratação;Contrato Fisc
+;;;;;;Potable Water Supply;;Consultas/Contratação;Contrato Obra
+;;;;;;Fire Protection System;;Consultas/Contratação;Consulta Obra
+;;;;;;Water Treatement;;Consultas/Contratação;Consulta Rev+Fisc
+;;;;;;Sewage Water Treatement;;Consultas/Contratação;Contrato Rev+Fisc
+;;;;;;Heating and Cooling Plant;;Obra;ProjExec
+;;;;;;Heating and Cooling Network;;Obra;RevProj
+;;;;;;Fuel Station Equipement;;Obra;Preparação Obra
+;;;;;;Fuel Hydrant Network;;Obra;Obra
+;;;;;;Coper main network;;Obra;Fiscalização
+;;;;;;Fibre-optic main network;;Obra;Assistência Técnica
+;;;;;;Runway;;Obra;Fecho Obra
+;;;;;;Taxiways;;Obra;Contingências
+;;;;;;Apron (Aicraft Stands);;;
+;;;;;;400 hz;;;
+;;;;;;Air conditionning;;;
+;;;;;;Docking guidance system;;;
+;;;;;;Lighting;;;
+;;;;;;BHS (Baggage Handling System);;;
+;;;;;;PBB (Passenger Boarding Bridge);;;
+;;;;;;Escalators/travelators;;;
+;;;;;;Lifts;;;
+;;;;;;Automatic doors;;;
+;;;;;;Anti-return Gates;;;
+;;;;;;EDS (Explosives Detection System);;;
+;;;;;;Tomograph;;;
+;;;;;;X-Ray (bags cabine, HF…);;;
+;;;;;;Walk-through Metal Detector;;;
+;;;;;;Other equipments;;;
+;;;;;;Check-in Desks;;;
+;;;;;;Boarding Gates;;;
+;;;;;;Self-service kiosks;;;
+;;;;;;Seats;;;
+;;;;;;Desks;;;
+;;;;;;Aubette;;;
+;;;;;;Signage;;;
+;;;;;;Other furniture;;;
+;;;;;;ARFF (Aircraft Rescue and Fire Fighting);;;
+;;;;;;Ground handling;;;
+;;;;;;Maintenance;;;
+;;;;;;Operations;;;
+;;;;;;Barrier;;;
+;;;;;;Self-service payment terminal;;;
+;;;;;;Public lighting;;;
+;;;;;;Fire detection;;;
+;;;;;;Sound system;;;
+;;;;;;Emergency Exit Management;;;
+;;;;;;Baggage Reconciliation System;;;
+;;;;;;CCTV (Closed Circuit TV);;;
+;;;;;;Flow Separation;;;
+;;;;;;Access Control;;;
+;;;;;;Dynamic Signage (FIDS);;;
+;;;;;;Public address system;;;
+;;;;;;Public Wi-Fi;;;
+;;;;;;Clock system;;;
+;;;;;;Network;;;
+;;;;;;Internet;;;
+;;;;;;Phone;;;
+;;;;;;Other Radio systems;;;
+;;;;;;Airport Operation Data Base;;;
+;;;;;;DCS (Departure Control System);;;
+;;;;;;Building Management System;;;
+;;;;;;Other Systems;;;
+;;;;;;Office automation;;;
+;;;;;;Rever o plano de investimento;;;
